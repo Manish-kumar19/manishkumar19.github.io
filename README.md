@@ -1,18 +1,7 @@
 # manishkumar19.github.io
 <br>
 Hii, My name is manish
-All
-Forums
-Shopping
-Images
-More
 
-
-
-
-my name is manish kumar and my gmail is manusalgotra19@gmail.com and i am ai/ml engineer and also know about python, numpy, pandas, matplotlib, c++, c, html, word, excel, and i have one year intern experience in the google. i have linkedin id , instagtram and facebook. i have many project in ai/ml based like housing ,e-commerce . plz create the code according above line for my portfolio
-Here is a complete, modern, and responsive HTML and CSS portfolio codebase tailored exactly to your profile. It includes smooth scrolling, clean visual sections, and interactive cards for your AI/ML projects.
-index.html
 html
 <!DOCTYPE html>
 <html lang="en">
